@@ -37,7 +37,7 @@
 ### VPN Client
 - [Hari Pertama](https://ariadesupriyatna.medium.com/decrypt-f1le-dark-darktunnel-vpn-1793ffd63192)
 - [Hari Kedua](https://ariadesupriyatna.medium.com/vpn-client-pro-f553d1ee0411)
-- [Hari Ketiga](https://ariadesupriyatna.medium.com/openvpn-sslsocks-nebulo-869d456993)
+- [Hari Ketiga](https://ariadesupriyatna.medium.com/openvpn-sslsocks-nebulo-869d4569938)
 - [Hari Keempat](https://ariadesupriyatna.medium.com/xray-apk-dfafe1333a83)
 - [Hari Kelima](https://ariadesupriyatna.medium.com/xray-apk-dfafe1333a83)
 - [Hari Keenam](https://blog.whyvpn.my.id/2023/05/tutorial-shadowsocks-obfs-tls-di-android.html?m=1)
