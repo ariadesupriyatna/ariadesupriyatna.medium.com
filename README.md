@@ -6,3 +6,15 @@
 - [Hari Kelima](https://ariadesupriyatna.medium.com/poc-sql-injection-day-5-95d8fcd212bb)
 - [Hari Keenam](https://ariadesupriyatna.medium.com/poc-sql-injection-day-6-bc4cc7efbe16)
 - [Hari Ketujuh](https://ariadesupriyatna.medium.com/poc-sql-injection-day-7-8e318eef9a77)
+
+.
+.
+
+### Reverse Engineering Apk
+- [Hari Pertama](https://ariadesupriyatna.medium.com/reverse-engineering-day-1-25a78da5835c)
+- [Hari Kedua](https://medium.com/p/6c44aa14067b)
+- [Hari Ketiga](https://ariadesupriyatna.medium.com/reverse-engineering-day-3-c38160464027)
+- [Hari Keempat](https://medium.com/@ariadesupriyatna/reverse-engineering-day-4-6d501ca0fa34)
+- [Hari Kelima](https://medium.com/@ariadesupriyatna/reverse-engineering-day-5-056b1fb6ba27)
+- [Hari Keenam](https://ariadesupriyatna.medium.com/reverse-engineering-day-6-3bacaf1b5cb8)
+- [Hari Ketujuh](https://ariadesupriyatna.medium.com/reverse-engineering-day-7-58a0a5337060)
