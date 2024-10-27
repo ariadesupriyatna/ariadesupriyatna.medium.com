@@ -42,3 +42,15 @@
 - [Hari Kelima](https://blog.whyvpn.my.id/2023/05/tutorial-sstp-client-di-android.html?m=1)
 - [Hari Keenam](https://blog.whyvpn.my.id/2023/05/tutorial-shadowsocks-obfs-tls-di-android.html?m=1)
 - [Hari Ketujuh](https://blog.whyvpn.my.id/2023/05/tutorial-openvpn-websocket-non-tls-dan.html?m=1)
+
+.
+.
+
+### Termux install OS
+- [Hari Pertama](https://ariadesupriyatna.medium.com/install-slackware-linux-arm-on-termux-17e1be0b8b26)
+- [Hari Kedua](https://medium.com/@ariadesupriyatna/how-to-install-metasploit-in-termux-without-root-all-android-versions-vulnerability-assessment-49f2f891f790)
+- [Hari Ketiga](https://medium.com/@ariadesupriyatna/install-pwntools-on-android-phone-5ae3d57c5518)
+- [Hari Keempat](https://ariadesupriyatna.medium.com/open-source-reverse-engineering-tool-rizin-re-termux-void-9b7586902318)
+- [Hari Kelima](https://www.linkedin.com/posts/adearie_apt-apt-proot-activity-7217721962582749185-UqL4?utm_source=share&utm_medium=member_desktop)
+- [Hari Keenam](https://ariadesupriyatna.medium.com/extract-unlock-password-protected-zip-using-android-579481a243cc)
+- [Hari Ketujuh](https://ariadesupriyatna.medium.com/how-to-install-run-c-on-android-termux-ubuntu-8640eb1452e7)
