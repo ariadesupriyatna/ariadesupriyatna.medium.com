@@ -18,3 +18,15 @@
 - [Hari Kelima](https://medium.com/@ariadesupriyatna/reverse-engineering-day-5-056b1fb6ba27)
 - [Hari Keenam](https://ariadesupriyatna.medium.com/reverse-engineering-day-6-3bacaf1b5cb8)
 - [Hari Ketujuh](https://ariadesupriyatna.medium.com/reverse-engineering-day-7-58a0a5337060)
+
+.
+.
+
+### Local Go Public
+- [Hari Pertama](https://medium.com/@ariadesupriyatna/acode-code-editor-openvpn-connect-portmap-io-592150b1f2ae)
+- [Hari Kedua](https://pastebin.com/qhN9q7w4)
+- [Hari Ketiga](https://pastebin.com/Wm0qQeRY)
+- [Hari Keempat](https://pastebin.com/0EP2Va0g)
+- [Hari Kelima](https://pastebin.com/yRdyCzv3)
+- [Hari Keenam](https://pastebin.com/xfCsr2Hu)
+- [Hari Ketujuh](https://gist.github.com/ariadesupriyatna/ea784cf38b4bcee9646ab311635ab3e9)
